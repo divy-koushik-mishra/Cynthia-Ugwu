@@ -4,6 +4,12 @@
   box-sizing: border-box;
   font-family: "General Sans";
 }
+@font-face {
+  font-family: "General Sans";
+  src: url("../fonts/GeneralSans-Medium.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
 
 html,
 body {
